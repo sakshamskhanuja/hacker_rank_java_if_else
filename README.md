@@ -2,7 +2,8 @@
 
 ### About
 
-In this challenge, we test your knowledge of using if-else conditional statements to automate decision-making processes. An if-else statement has the following logical flow:
+In this challenge, we test your knowledge of using if-else conditional statements to automate decision-making processes.
+An if-else statement has the following logical flow:
 
 ![if else](https://user-images.githubusercontent.com/122201501/226377496-a9088260-dc2e-4b6a-8b59-846747d69de7.png)
 
